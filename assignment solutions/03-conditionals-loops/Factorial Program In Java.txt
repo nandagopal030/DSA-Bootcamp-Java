@@ -1,0 +1,14 @@
+import java.util.*;
+// Factorial program in java;
+public class Main
+{
+	public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int fact = sc.nextInt();
+        int res = 1;
+        for(int i = fact; i >=1; i--){
+            res  = res * i;
+        }
+        System.out.println(res);
+	}
+}

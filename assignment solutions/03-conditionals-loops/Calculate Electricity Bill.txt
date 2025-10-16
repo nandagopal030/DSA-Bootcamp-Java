@@ -1,0 +1,39 @@
+🧩 Question:
+Write a Java program to calculate the Electricity Bill based on the number of units consumed.
+Use the following conditions:
+
+For the first 100 units – ₹1.50 per unit
+
+For the next 100 units – ₹2.50 per unit
+
+Above 200 units – ₹4.00 per unit
+
+🔢 Input:
+
+Enter total units consumed: 250
+
+
+💡 Output:
+
+Electricity Bill: ₹550.0
+
+
+
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc = new Scanner(System.in);
+        int units  = sc.nextInt();
+        double bill = 0;
+        if(units <= 100){
+            bill = units * 1.5;
+        }else if(units <= 200){
+            bill = (100 * 1.5) + ((units - 100) * 2.5);
+        }else{
+            bill = (100 * 1.5) + (100 * 2.5) + ((units -  200) * 4.0);
+        }
+        System.out.println(bill);
+	}
+}
