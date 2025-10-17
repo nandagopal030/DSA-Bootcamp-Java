@@ -1,0 +1,29 @@
+import java.util.*;
+// Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
+
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int positiveEvenNum = 0;
+		int sumOddNum = 0;
+		int negativeNums = 0;
+		while(true){
+		    System.out.println("Enter the +ve or -ve or odd num");
+		    int num = sc.nextInt();
+		    if(num == 0){
+		        break;
+		    }
+		    if(num > 1 && num % 2  == 0){
+		        positiveEvenNum += num;
+		    }else if(num >=1 ){
+		        sumOddNum += num;
+		    }else {
+		        negativeNums += num;
+		    }
+		}
+		System.out.println(positiveEvenNum);
+		System.out.println(negativeNums);
+		System.out.println(sumOddNum);
+	}
+}

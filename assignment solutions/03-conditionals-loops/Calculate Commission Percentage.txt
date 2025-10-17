@@ -1,0 +1,15 @@
+import java.util.*;
+// Calculate Commission Percentage
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the Commission amount");
+		double Commission = sc.nextInt();
+	    System.out.println("Enter the Total Sales");
+	    double sales = sc.nextInt();
+	    
+	    double result =( Commission / sales ) * 100;
+	    System.out.println(result + "%");
+	}
+}

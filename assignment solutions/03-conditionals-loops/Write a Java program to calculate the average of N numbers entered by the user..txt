@@ -1,0 +1,19 @@
+import java.util.*;
+// Write a Java program to calculate the average of N numbers entered by the user.
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the count of numbers");
+		int numCount = sc.nextInt();
+		System.out.println("Enter the numbers");
+	    int sum = 0;
+		for(int i = 0; i< numCount; i++) {
+			int numbers = sc.nextInt();
+            sum += numbers;
+		}
+		int result = sum / numCount;
+		System.out.println("average of N numbers is "+ result);
+
+	}
+}

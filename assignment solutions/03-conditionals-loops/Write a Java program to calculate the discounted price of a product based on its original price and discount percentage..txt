@@ -1,0 +1,15 @@
+import java.util.*;
+// Write a Java program to calculate the discounted price of a product based on its original price and discount percentage.
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the original price");
+	    int originalPrice = sc.nextInt();
+		System.out.println("Enter the discountPrice");
+		int discountPrice = sc.nextInt();
+		int discountReturn = originalPrice * discountPrice / 100;
+		int result  = originalPrice - discountReturn;
+		System.out.println(result);
+	}
+}

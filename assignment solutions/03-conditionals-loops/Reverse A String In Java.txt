@@ -1,0 +1,18 @@
+import java.util.*;
+// Reverse A String In Java
+public class Main
+{
+	public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the String word to reverse");
+        String s = sc.nextLine();
+        
+        //With single pointer;
+        String reverse = "";
+        int len = s.length() - 1;
+        for(int i = len; i >= 0; i-- ){
+            reverse += s.charAt(i);
+        }
+        System.out.println(reverse);
+	}
+}
