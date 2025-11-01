@@ -1,0 +1,814 @@
+[33mcommit 114a330719f7a5c5aa8195da352abffcddd3121f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32massignment-solutions-branch[m[33m, [m[1;31morigin/assignment-solutions-branch[m[33m)[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Thu Oct 23 14:56:01 2025 +0530
+
+    New assignment files
+
+[33mcommit cd3d14302d3d2986a2c85c3e7bd90052953da194[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Thu Oct 23 12:46:34 2025 +0530
+
+    Function assignment submission
+
+[33mcommit 80be82d8f8a55902ac896b7976dcc9a9c9e99606[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Fri Oct 17 14:49:18 2025 +0530
+
+    New Solution files
+
+[33mcommit 7da0d16e7913a8e258e21f8ef757480dda0b1d64[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Thu Oct 16 16:57:19 2025 +0530
+
+    Total 6 java program sums
+
+[33mcommit 4e45ae8be3a646e7ead17eac1c4aaef1ab4df53f[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Thu Oct 16 10:54:49 2025 +0530
+
+    6,7,8,9 is being added;;;;
+
+[33mcommit de26b5ac8e9565d4e0b44b927be739d8f3fa6ef0[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Wed Oct 15 17:13:42 2025 +0530
+
+    4 & 4 changed
+
+[33mcommit 045adf02351baabdf09119bd2880d9d89deed957[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Wed Oct 15 17:04:17 2025 +0530
+
+    2,3,4&5.txt needed to be added to git repo
+
+[33mcommit 0a2ae65a6e243c98b8777ae7d3ca4c3ce7cfaeae[m
+Author: Your Name <nandagopal030@gmail.com>
+Date:   Wed Oct 15 16:24:14 2025 +0530
+
+    1.txt needed to be added to git repo
+
+[33mcommit 6bc4d8bf8ac5e434ac9083e1c01210e42f2a762c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Aug 18 09:21:55 2024 +0100
+
+    Update README.md
+
+[33mcommit 325361dd2e9ab2d50bc7d2eeefada97d3d9db0d0[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sat Dec 30 20:47:32 2023 +0530
+
+    tree questions notes 3
+
+[33mcommit ffbe27560628cd61a0904ce04cd4c99499acb7c1[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sat Dec 30 20:47:00 2023 +0530
+
+    tree questions
+
+[33mcommit c63b4b02dc042d773c40e012bd70b636616caae3[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Dec 4 11:53:48 2023 +0530
+
+    advance tree questions notes
+
+[33mcommit da8252071bf715a323d4cf5668f39bcb521df8b2[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Dec 4 11:53:12 2023 +0530
+
+    advance tree questions
+
+[33mcommit c2d7709dc5a33c35171b4fdf430e6e40f7b23e34[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Dec 1 18:01:56 2023 +0530
+
+    notes
+
+[33mcommit 7d353ead4d1e386efd52a15feb0dce7d0ec51093[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Dec 1 18:00:49 2023 +0530
+
+    advance tree questions
+
+[33mcommit d623a5e2a4a9d79f9f3d1330d217cdf1e4dde4e9[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed Nov 29 14:19:56 2023 +0530
+
+    sqrt decomposition
+
+[33mcommit 3bb7a49e04a1e9385b8eb3940f9e09435ad246cb[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Oct 31 11:06:32 2023 +0000
+
+    Update SYLLABUS.md
+
+[33mcommit d150c487a4a8e1f71c6be2a60e26e23cff3b0212[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Oct 30 16:28:18 2023 +0000
+
+    Huffman Coding
+
+[33mcommit eca087e1e113a7190136bba12a768191e7e0b26e[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Oct 30 01:08:22 2023 +0000
+
+    Update README.md
+
+[33mcommit 7edfc2464c7ffc8c67c8ab8d93ac81c81c9e50d3[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Oct 30 00:51:40 2023 +0000
+
+    advance sorting
+
+[33mcommit 85264ce068dd53dc4f9cf84b8dccadc2283d4657[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Oct 30 00:50:08 2023 +0000
+
+    Radix sort code
+
+[33mcommit 5a8af23a430311fda01b6e23692187491282e555[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Oct 30 00:49:51 2023 +0000
+
+    Radix sort code
+
+[33mcommit de2a7959fae6b763b14b5acdf73bb107eb8910e8[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Oct 29 23:16:55 2023 +0000
+
+    Count sort notes
+
+[33mcommit d573972b550eb2ffc3ca39a22cf279727e7c17d9[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Oct 29 23:16:35 2023 +0000
+
+    Count sort code
+
+[33mcommit d74475e5429ac6ba4e1cdd4df29f4881b622a0df[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Oct 29 21:34:02 2023 +0000
+
+    Karp Rabin
+
+[33mcommit ae93d9cee84ef103e3719f7aa7254fd6c14a8695[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Oct 29 21:32:03 2023 +0000
+
+    KarpRabin notes
+
+[33mcommit 5c45a424d633cc35a3abb7b1e8cb30e1a0274efa[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Oct 29 21:31:43 2023 +0000
+
+    KarpRabin code
+
+[33mcommit 380f8b07707239edf95e1e2946f5caa722561603[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Oct 29 19:14:55 2023 +0000
+
+    Hashmap
+
+[33mcommit 93ce6c86ba495b1eff126cbb33e87e9bdd535e00[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sat Sep 23 18:46:20 2023 +0100
+
+    Create 18-heaps.md
+
+[33mcommit 53d6807eefe60afb121b7ec7f08f42a60fce6246[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sat Sep 23 18:46:02 2023 +0100
+
+    Heaps
+
+[33mcommit 74bd46486cfc2d62c13fe1b26d4fe870b7bb8a20[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Sep 8 18:03:04 2023 +0100
+
+    Update README.md
+
+[33mcommit 4dae65710e9bfe2dafd8fb7dccfbf9db802137b1[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Sep 8 18:01:37 2023 +0100
+
+    Update SYLLABUS.md
+
+[33mcommit e183365716f76245cb6132ca5c3d04c1ce60b481[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Sep 8 18:01:13 2023 +0100
+
+    Update SYLLABUS.md
+
+[33mcommit 9449ccab310cbfd74ef7b2b27a2b904457a7d0be[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Sep 8 17:55:21 2023 +0100
+
+    Update README.md
+
+[33mcommit 4fa7f0754ca9e77c2ab7da0a2d37a7df90142697[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Thu Aug 31 21:42:57 2023 +0100
+
+    Tree questions
+
+[33mcommit 0a5fd44ea6febf26b19b78bf51d2b06209e05edf[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Thu Aug 31 18:17:09 2023 +0100
+
+    Update 17-trees.md
+
+[33mcommit 237f573400e0ffa4612941663ae2f5546aa226cd[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Thu Aug 3 16:56:16 2023 +0100
+
+    file handling
+
+[33mcommit f29e89ceaada2818da12deea9725af514e1c8652[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Jul 30 17:54:20 2023 +0100
+
+    Large numbers
+
+[33mcommit b1ad614a0b2dbe029bc5b16afe5d9b588c0177cb[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Jul 30 13:34:17 2023 +0100
+
+    StringBuffer
+
+[33mcommit e12b5995fc7914fd725b816856e318157a0c08fa[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Jul 28 14:02:34 2023 +0100
+
+    segment trees
+
+[33mcommit 20cb65a8be4ddc931fb767c767e8cdd8202e4550[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed Jul 26 06:41:58 2023 +0100
+
+    Update README.md
+
+[33mcommit 2cee71a2cf18e5248def1b3275f4e4acfb125764[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jul 24 12:28:19 2023 +0100
+
+    AVL
+
+[33mcommit 31c8db2244c6c5663fe7573609f3f176bac18e5c[m
+Merge: 71542c8 f711158
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Thu Jun 1 11:48:57 2023 +0100
+
+    Merge pull request #1034 from siddhant-khisty/main
+    
+    Added assignment questions for Binary Trees
+
+[33mcommit f71115873392e7c6c729175ffa52179dfafb6e1d[m
+Author: Siddhant Khisty <siddhantkhisty@gmail.com>
+Date:   Thu Jun 1 14:20:58 2023 +0530
+
+    Fix: Syntax errors
+
+[33mcommit 14026fb22b5d777664f98a31c829f25344413b6e[m
+Author: Siddhant Khisty <siddhantkhisty@gmail.com>
+Date:   Thu Jun 1 14:19:47 2023 +0530
+
+    Add: Trees questions
+
+[33mcommit 71542c8fefc7f9c1d909a2e7e76ec15161bff3e6[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed May 31 21:51:11 2023 +0100
+
+    Update 17-trees.md
+
+[33mcommit ffca2b82c3472cd9cf1a5049cde462a39498dde2[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed May 31 21:50:40 2023 +0100
+
+    Create 17-trees.md
+
+[33mcommit 77d63ae45364a207e7597e22f04956dee36b2f1c[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed May 31 20:37:43 2023 +0100
+
+    tree notes
+
+[33mcommit 3e2f312bca14dbc5290c21dab733b7fe28ee97da[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed May 31 20:13:10 2023 +0100
+
+    Trees - 1
+
+[33mcommit fe5fddb5e8654bf5b3bbce372a84d96f4796efed[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Thu Feb 23 19:08:48 2023 +0000
+
+    Update README.md
+
+[33mcommit 68e10351ca1104fd1a57ecc99afc6a0e024d5ac8[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Thu Feb 2 13:18:23 2023 +0000
+
+    Delete .mergify.yml
+
+[33mcommit 5b7c2d42d444ab93fb31c45dba5b60a0c3d65b5f[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Thu Feb 2 13:17:57 2023 +0000
+
+    Update README.md
+
+[33mcommit feca9f8fbe1f18d75f50f16f916c3e8ab99e0a13[m
+Author: Kunal Kushwaha <kunalkushwaha@Kunals-MacBook-Pro.local>
+Date:   Thu Feb 2 13:12:24 2023 +0000
+
+    stacks and queues questions
+
+[33mcommit 58cb3e17c04b232356e6fa5fe3296af931988a3a[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Aug 14 13:31:07 2022 +0530
+
+    Update .mergify.yml
+
+[33mcommit 394ac22fc176426a705ce93953ed59a905af8203[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Aug 14 13:26:20 2022 +0530
+
+    Update .mergify.yml
+
+[33mcommit 77661b47e4fa32f52ba6e27fb80e1bb38eabd59b[m
+Merge: 51e03f9 e1fafb5
+Author: mergify[bot] <37929162+mergify[bot]@users.noreply.github.com>
+Date:   Sun Aug 14 07:50:43 2022 +0000
+
+    Merge pull request #722 from pushkarrajsoni/patch-1
+    
+    Update classes.txt
+
+[33mcommit 51e03f90b3a1e9dd909f2b1563c1801c08c1ce83[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Aug 14 13:19:42 2022 +0530
+
+    Create .mergify.yml
+
+[33mcommit e1fafb551eab1140a13f0dd9ee8b94bb0a5b065c[m
+Author: pushkarrajsoni <99614705+pushkarrajsoni@users.noreply.github.com>
+Date:   Thu Aug 11 01:46:32 2022 +0530
+
+    Update classes.txt
+
+[33mcommit 9b8089529ce95a5a93bae79764055957a2640cc2[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sat Mar 5 23:36:29 2022 +0530
+
+    Update README.md
+
+[33mcommit ad9cb97789961b4e7975ac66bc000b44c51b5c30[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Feb 20 13:33:02 2022 +0530
+
+    Update README.md
+
+[33mcommit 62da37b482afafa34340dd36f43181b593721c2d[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Feb 20 13:31:49 2022 +0530
+
+    clean
+
+[33mcommit dfa87633687e07572a68c1c704d665cdbfa8995a[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Feb 20 13:30:50 2022 +0530
+
+    clean
+
+[33mcommit 98145d9ae03b1b158f620a9f7bcb45d416c15daf[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Feb 20 13:30:10 2022 +0530
+
+    clean
+
+[33mcommit 12db8c0fd7e3861d20c4932bc49ead224c663af3[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Feb 20 13:27:17 2022 +0530
+
+    Update README.md
+
+[33mcommit e06f20d6387b1160cc497329ff311cc5d84f0ff7[m
+Merge: b2b923d fb35863
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Feb 1 11:54:40 2022 +0530
+
+    Merge pull request #580 from SurajPratap10/main
+    
+    📝 Update CONTRIBUTION.md
+
+[33mcommit fb35863b4d540563f07f385e689808a1c7037aaa[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Mon Jan 31 02:44:13 2022 +0530
+
+    Updated ASSIGNMENT_SOLUTIONS.md
+
+[33mcommit 00fc464132c29086ca0d4130987c8cd1a359d677[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 11:11:57 2022 +0530
+
+     📝 Updated NOTES.md
+
+[33mcommit c59a8636613a23043e12f1ff10075a4a07b2333d[m
+Merge: be98129 c2c5f0c
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 11:11:26 2022 +0530
+
+    Merge pull request #2 from SurajPratap10/SurajPratap10-patch-2
+    
+    📝 Updated NOTES.md
+
+[33mcommit c2c5f0c526b063b556a35eeedf562129e25baeb1[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 11:11:16 2022 +0530
+
+    📝 Updated NOTES.md
+
+[33mcommit be9812916837ff9ccd237ee77ab48952195ca327[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 00:56:35 2022 +0530
+
+    📝 Updated CODE_OF_CONDUCT.md
+
+[33mcommit 43c97313e4700d7ecc36710821049c6138a49422[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 00:55:09 2022 +0530
+
+    Update CODE_OF_CONDUCT.md
+
+[33mcommit a247f7253b224a0961e3602142e7c65786a8b4e2[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 00:49:50 2022 +0530
+
+    Create 02-first-java.md
+
+[33mcommit 2d8a9f72f8b5dfbeab6b9e59be9cd42af6598058[m
+Merge: 7214e08 7d0f7d3
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 00:49:36 2022 +0530
+
+    Merge pull request #1 from SurajPratap10/SurajPratap10-patch-1
+    
+    Update 02-first-java.md
+
+[33mcommit 7d0f7d3b93d8397c59db627be38fad04c3bfbc4c[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sun Jan 30 00:49:26 2022 +0530
+
+    Update 02-first-java.md
+
+[33mcommit 7214e0876a59124240fe9b61da3f1791839c7393[m
+Author: Suraj Pratap <92919173+SurajPratap10@users.noreply.github.com>
+Date:   Sat Jan 29 12:43:12 2022 +0530
+
+    Update CONTRIBUTION.md
+
+[33mcommit b2b923d9defa4ccb5adbbca6df47f9a2fa08fadf[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Fri Jan 28 09:46:24 2022 +0530
+
+    Update NOTES.md
+
+[33mcommit af5e10489041f21afe55cd634b104e449645a80a[m
+Merge: 57da586 c047945
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 25 14:41:59 2022 +0530
+
+    Merge pull request #574 from kalashjain23/kunal
+    
+    PR for the issue #573..
+
+[33mcommit 57da5869bf3d7e2985076a78572e8fc28bb84a53[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 25 14:35:07 2022 +0530
+
+    Update README.md
+
+[33mcommit 96edc7436533bf3ef134e7c0338d015c697184fc[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 25 14:02:16 2022 +0530
+
+    Update README.md
+
+[33mcommit abbc384243b53bbb619efccbfc23f63c80fb041d[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 25 13:58:00 2022 +0530
+
+    Update README.md
+
+[33mcommit c047945bba5586837b9cb1abd0de71209c5b0957[m
+Author: kalashjain23 <kalashjain513@gmail.com>
+Date:   Sat Jan 22 00:14:22 2022 +0530
+
+    edited conditionals-loops
+
+[33mcommit 0f8e5fc0dcc0dff0367081e2482444c41a13ae98[m
+Merge: 18f242d b058125
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 11 12:04:10 2022 +0530
+
+    Merge pull request #537 from Lakshay-Pruthi/patch-1
+    
+    Update 15-linkedlist.md
+
+[33mcommit b05812585869a60636cf5ddcebffa1f65ab1474a[m
+Merge: 8cda733 18f242d
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 11 12:04:03 2022 +0530
+
+    Merge branch 'main' into patch-1
+
+[33mcommit 18f242d29c7eb030988cd916ba9aef049350443e[m
+Merge: 2ae2265 fa0e3b5
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 11 12:02:34 2022 +0530
+
+    Merge pull request #510 from alokVerma749/assignmentLeetcode
+    
+    Added list of questions provided by Leetcode according to the topic tags
+
+[33mcommit 2ae22659d43af633730acb64ead72db9a9c2346e[m
+Merge: 340ecd2 a25d01a
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 11 12:01:19 2022 +0530
+
+    Merge pull request #547 from sakshamstwt/patch-2
+    
+    Update SYLLABUS.md
+
+[33mcommit 340ecd24b9b5a8e785488f208a12c02054528392[m
+Merge: f74862a a0fd6d4
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 11 11:59:54 2022 +0530
+
+    Merge pull request #554 from ronitblenz/readmelinks
+    
+    Stack & Queues link added to Syllabus
+
+[33mcommit a0fd6d4fe89129be889f4ac3bde08baa05a2ab94[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Tue Jan 11 11:59:39 2022 +0530
+
+    Update SYLLABUS.md
+
+[33mcommit 8812ef4376911edf76ed5c7cd343fccc18deceee[m
+Author: ronitblenz <ronit.banerjee.21@aot.edu.in>
+Date:   Tue Jan 11 10:04:31 2022 +0530
+
+    Stack & Queues link added to Syllabus
+
+[33mcommit a25d01aeddb0a7111964bb576ad8d9b8813885f3[m
+Author: Saksham Gupta <90046016+sakshamstwt@users.noreply.github.com>
+Date:   Sun Jan 9 16:00:39 2022 +0530
+
+    Update SYLLABUS.md
+    
+    Hey I just added new link to the video as a separate topic for ease of other people and I added time stamp of Input-output in Java
+
+[33mcommit f74862afac74a29be4120a5f665eadd7805c07bf[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed Jan 5 14:45:03 2022 +0530
+
+    stacks and queues
+
+[33mcommit 8cda7333533b7514c2b2fa747bdfb30bd0cfd2f8[m
+Author: Lakshay-Pruthi <91469717+Lakshay-Pruthi@users.noreply.github.com>
+Date:   Tue Jan 4 20:23:49 2022 +0530
+
+    Update 15-linkedlist.md
+    
+    Question doesn't refer to Linked list.
+
+[33mcommit fa0e3b554de6ec5d99f877827f870cab51e9a75a[m
+Author: alokverma <alokverma749@gmail.com>
+Date:   Tue Jan 4 00:13:47 2022 +0530
+
+    added requested changes
+
+[33mcommit 16d2d96883e7d0f3ec1799185e39c25ede3ed67b[m
+Author: alokverma <alokverma749@gmail.com>
+Date:   Mon Jan 3 23:57:30 2022 +0530
+
+    make required changes and added individual problems
+
+[33mcommit 2afd2b05b5632d7763c33e08f5fcdbedbc7c16c4[m
+Author: alokverma <alokverma749@gmail.com>
+Date:   Mon Jan 3 23:53:57 2022 +0530
+
+    Added individual problems
+
+[33mcommit ae4d39af05dd0432e19796c8de403dba7a0a7cee[m
+Merge: f96646f d6867b7
+Author: alokverma <alokverma749@gmail.com>
+Date:   Mon Jan 3 23:22:56 2022 +0530
+
+    Merge branch 'assignmentLeetcode' of https://github.com/alokVerma749/DSA-Bootcamp-Java into assignmentLeetcode
+
+[33mcommit d6867b79dfee217c0610f2774e2b894c3da1330a[m
+Merge: 5e500d5 e18b3e9
+Author: Alok Kumar verma <87599400+alokVerma749@users.noreply.github.com>
+Date:   Mon Jan 3 22:24:35 2022 +0530
+
+    Merge branch 'kunal-kushwaha:main' into assignmentLeetcode
+
+[33mcommit e18b3e988d5215538b56a29161499202104b90ba[m
+Merge: 3edd42d 995600e
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:13:35 2022 +0530
+
+    Merge pull request #511 from soham-samanta/patch-4
+    
+    Update CustomArrayList.java
+
+[33mcommit 3edd42dce29ccd281cf822e72ae83a96eeed6b79[m
+Merge: 13462fc 1e23055
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:13:21 2022 +0530
+
+    Merge pull request #512 from soham-samanta/patch-5
+    
+    Update CustomGenArrayList.java
+
+[33mcommit 13462fc1d46df608218cc7affe7356fccb88666f[m
+Merge: d198578 2f21e67
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:12:10 2022 +0530
+
+    Merge pull request #509 from soham-samanta/patch-3
+    
+    update company tags
+
+[33mcommit d198578e68aa5a8098e313e8f4e4d5703bcb8327[m
+Merge: e9064ba 34aef89
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:11:36 2022 +0530
+
+    Merge pull request #504 from Suvradippaul/patch-1
+    
+    Corrected a null pointer exception
+
+[33mcommit e9064ba9c961570d1eac8252656efcb49cca260f[m
+Merge: 2175d94 5461f5e
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:11:19 2022 +0530
+
+    Merge pull request #503 from Deepa-chaurasiya01/main
+    
+    Time and Space complexity handwritten notes.
+
+[33mcommit 2175d948febfce57f06665148139f029f42269b3[m
+Merge: 5ecdbaf 8a78540
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:11:01 2022 +0530
+
+    Merge pull request #502 from aniketwdubey/main
+    
+    Updated LL.java
+
+[33mcommit 5ecdbaf4e40d3f6eccc5dbd32e3354c9df33158b[m
+Merge: 95ebd0d a23f9c2
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:10:32 2022 +0530
+
+    Merge pull request #501 from vaibhav0806/dsa-doc-contribution
+    
+    Added doc header
+
+[33mcommit 95ebd0d5c688a5a019bd4c916af82bccbe55bf45[m
+Merge: 99f799d a52bffb
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:10:21 2022 +0530
+
+    Merge pull request #500 from mananmehta3/patch-4
+    
+    Update 05-arrays.md
+
+[33mcommit 99f799d0cbb01e074ceba0c46ac1eb173a5c54d7[m
+Merge: 17b9903 0ceeb9b
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:09:17 2022 +0530
+
+    Merge pull request #494 from Sujansinh-thakor/patch-3
+    
+    Update 08-strings.md
+
+[33mcommit 17b9903cd5bd770d33adbc008a2cda04df06763e[m
+Merge: 111abf9 727c5d2
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:09:03 2022 +0530
+
+    Merge pull request #493 from Shivshankar158/main
+    
+    corrected a comment in line 12
+
+[33mcommit 111abf9f6a769dcb0ee196e9a4bca0fbde8d7228[m
+Merge: 1a4ef77 21cf58d
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:08:28 2022 +0530
+
+    Merge pull request #492 from Iamtripathisatyam/patch-2
+    
+    Update Some Math Questions
+
+[33mcommit 1a4ef7711e56f668ef765b2326a24c335723ac28[m
+Merge: 5aceaa8 920c5cf
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Mon Jan 3 20:03:33 2022 +0530
+
+    Merge pull request #525 from HrishabhCodes/Hrishabh
+    
+    Modify ASSIGNMENT_SOLUTIONS.md
+
+[33mcommit 920c5cfde900f16c8f3202829de63089ffe9f19b[m
+Author: Hrishabh Jain <hrishabh507@gmail.com>
+Date:   Thu Dec 30 08:51:33 2021 +0530
+
+    Modify ASSIGNMENT_SOLUTIONS.md
+
+[33mcommit 5461f5e3adba27030c5b23ba68b3a63a09309ed7[m
+Author: Deepa Chaurasiya <78865653+Deepa-chaurasiya01@users.noreply.github.com>
+Date:   Sat Dec 25 17:21:10 2021 +0530
+
+    Add files via upload
+
+[33mcommit f96646f729ce54c094e1bffb7a9dcdc4244d57e5[m
+Author: alokverma <alokverma749@gmail.com>
+Date:   Sat Dec 25 16:10:48 2021 +0530
+
+     Added list of questions of topic GCD and LCM
+
+[33mcommit 1e23055f77c3732ff90c1da6552c5eabfab39a1a[m
+Author: Soham Samanta <72293985+soham-samanta@users.noreply.github.com>
+Date:   Sun Dec 19 19:28:04 2021 +0530
+
+    Update CustomGenArrayList.java
+
+[33mcommit 995600ea5b6c283bf732e70802566129a8d9dfd7[m
+Author: Soham Samanta <72293985+soham-samanta@users.noreply.github.com>
+Date:   Sun Dec 19 19:26:38 2021 +0530
+
+    Update CustomArrayList.java
+    
+    corrected a small spelling
+
+[33mcommit 5e500d59e0fa12bac52eb41d167418e104bb7aa3[m
+Author: alokverma <alokverma749@gmail.com>
+Date:   Sat Dec 18 16:02:53 2021 +0530
+
+    Added list of questions provided by Leetcode according to the topic tags
+
+[33mcommit 2f21e67fedfdae1172a5be10167a012573694c1e[m
+Author: Soham Samanta <72293985+soham-samanta@users.noreply.github.com>
+Date:   Thu Dec 16 20:11:48 2021 +0530
+
+    update company tags
+    
+    verified from LeetCode premium that add two number question has been asked in (Amazon, Microsoft, Facebook, Qualcomm) these companies also
+
+[33mcommit 5aceaa82d67c4cc1071da31797c60ed351b46406[m
+Merge: 08c9fc8 2999bc5
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Sun Dec 12 12:20:09 2021 +0530
+
+    Merge pull request #490 from HarshChib/Stack_correction
+    
+    <Added easy question from hard section to easy>
+
+[33mcommit 34aef89d09e6107a6abd83d80b07edefe7b3086b[m
+Author: Suvradippaul <suvradip2000@gmail.com>
+Date:   Fri Dec 10 23:55:19 2021 +0530
+
+    Corrected a null pointer exception when linked list has only one element
+
+[33mcommit 6aea1cc3b8a14d1b80b0526ce2e3998d93ff72fd[m
+Author: Deepa Chaurasiya <78865653+Deepa-chaurasiya01@users.noreply.github.com>
+Date:   Fri Dec 10 17:44:02 2021 +0530
+
+    Add files via upload
+
+[33mcommit 8a78540439375cc23fc6d1309cf0003eee68fa92[m
+Merge: 45eb750 08c9fc8
+Author: aniketwdubey <58386130+aniketwdubey@users.noreply.github.com>
+Date:   Wed Dec 8 23:21:33 2021 +0530
+
+    Merge branch 'kunal-kushwaha:main' into main
+
+[33mcommit 45eb7503721ca95efad458dc422d99d79372e94a[m
+Author: aniketwdubey <58386130+aniketwdubey@users.noreply.github.com>
+Date:   Wed Dec 8 23:15:09 2021 +0530
+
+    Updated LL.java
+    
+    slight modification in deleteLast() and delete().
+
+[33mcommit 08c9fc86330f87a0206219e3c025c6f5c6c61379[m
+Author: Kunal Kushwaha <kunalkushwaha453@gmail.com>
+Date:   Wed Dec 8 15:44:59 2021 +0530
+
+    Update SYLLABUS.md
+
+[33mcommit a23f9c2e3820e10c01ee99ed2621a775b2393752[m
+Author: Vaibhav Pandey <vaibhav.pandey0806@gmail.com>
+Date:   Wed Dec 8 13:29:26 2021 +0530
+
+    Added doc header

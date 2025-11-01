@@ -1,0 +1,17 @@
+import java.util.*;
+//A person is eligible to vote if his her age is greater than or equal to 18. Define a method to find out if heshe is eligible to vote.
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc =  new Scanner(System.in);
+		int age = sc.nextInt();
+		System.out.println("HE / SHE is " + isVoteEligible(age) );
+	}
+	static String isVoteEligible(int age){
+	    if(age >= 18){
+	        return "Heyy you are eligible";
+	    }else{
+	        return "Heyy You are not eligible";
+	    }
+	}
+}

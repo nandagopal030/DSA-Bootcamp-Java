@@ -1,0 +1,37 @@
+import java.util.*;
+//Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int first = sc.nextInt();
+		int second = sc.nextInt();
+		int third = sc.nextInt();
+		System.out.println( " maximum is  " + firstLargest(first, second, third));
+        System.out.println("minimum is " + firstMinimum(first, second, third));
+
+	}
+
+	static int firstLargest(int first, int second, int third) {
+		int max  = first;
+		if(second > max) {
+			max = second;
+		}
+		if(third > max) {
+			max = third;
+		}
+		return max;
+	}
+
+	static int firstMinimum(int first, int second, int third) {
+        int min = first;
+        if(second < min){
+            min = second;
+        }
+        if(third < min){
+            min = third;
+        }
+        return min;
+	}
+
+}

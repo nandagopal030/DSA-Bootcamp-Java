@@ -1,0 +1,19 @@
+import java.util.*;
+
+//Write a function that returns the sum of first n natural numbers.
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the number to find until l:) natural number");
+        int n = sc.nextInt();
+        natural(n);
+	}
+	static void natural(int num){
+        int sum = 0;
+        for(int i = 1; i <= num; i++){
+            sum += i;
+        }
+        System.out.println(sum);
+	}
+}
